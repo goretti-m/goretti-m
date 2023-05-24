@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Goretti Muriithi</h1>
 <h3 align="center">A passionate full-stack developer from New Jersey</h3>
 
+<p align="right" alt="Coding" width="400" src="https://tenor.com/view/banner-gif-25870804">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goretti-m" alt="goretti-m" /></a> </p>
+
+
 - 🔭 I’m currently working on [- A finance tracking app](-)
+
+- 🌱 I’m currently learning **Discrete Structures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goretti-m&show_icons=true&locale=en" alt="goretti-m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goretti-m&" alt="goretti-m" /></p>
-
 
 <!--
 **goretti-m/goretti-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
