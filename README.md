@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏾, I am Goretti Muriithi</h1>
 <h3 align="center">Elevating the world as a Full-stack Developer 💻. From New Jersey, USA and constantly sharpening my skills, with a strong focus on Java and React</h3>
-![person codeing](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr)
+![person codeing](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goretti-m" alt="goretti-m" /></a> </p>
 
 - 🔭 I’m currently working on [- A finance tracking app](-)
