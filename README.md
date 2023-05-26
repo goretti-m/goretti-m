@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://unsplash.com/photos/SyYmXSDnJ54)](https://unsplash.com) -->
+[![MasterHead](laptop_header.jpg)
 <h1 align="center">Hi there 👋🏾, I am Goretti Muriithi</h1>
 <h3 align="center">Elevating the world as a Full-stack Developer 💻. From New Jersey, USA and constantly sharpening my skills, with a strong focus on Java and React. </h3>
 
