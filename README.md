@@ -1,5 +1,5 @@
 <!-- ![MasterHead](laptop_header.jpg) -->
-<img src="laptop_header.jpg" alt="MasterHead" style="width: 50%;">
+<img src="laptop_header.jpg" alt="MasterHead" style="width: 100%;">
 <h1 align="center">Hi there 👋🏾, I am Goretti Muriithi</h1>
 <h3 align="center">Elevating the world as a Full-stack Developer 💻. From New Jersey, USA and constantly sharpening my skills, with a strong focus on Java and React. </h3>
 
