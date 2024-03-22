@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [- A finance tracking app](-)
 
-- 🌱 I’m currently learning **Discrete Structures & C++**
+- 🌱 I’m currently learning **Data Science, PHP, and SQL querying.**
 
 - 💬 Ask me about **Fintech**
 
-- 📫 How to reach me **gorettiwm@gmail.com**
+- 📫 How to reach me **gm552@cornell.edu**
   
 
 <!-- <h3 align="left">Connect with me:</h3> -->
